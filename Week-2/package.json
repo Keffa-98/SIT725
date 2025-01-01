@@ -1,0 +1,14 @@
+{
+  "name": "week-2",
+  "version": "1.0.0",
+  "description": "Week 2 assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
