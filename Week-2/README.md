@@ -23,5 +23,18 @@ install node_modules via npm
 
 use the following command to run the application
 ```
-npm install
+npm run start
+```
+
+## Test Application
+
+In your favourite browser navigate to https://localhost:3000
+
+## Adding two numbers
+To add two numbers provide the two numners a query params such as:
+`http://localhost:3000/add?num1=5&num2=8` and you should be able to get response such as:
+```json
+{
+    "result":13
+}
 ```
