@@ -3,7 +3,7 @@
 ## Installation 
 clone the repository
 ```
-git clone git git git  nkachciohttps://github.com/Keffa-98/SIT725 
+git clone git https://github.com/Keffa-98/SIT725 
 ```
 
 ## Install dependencies
